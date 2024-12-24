@@ -9,8 +9,10 @@ pkg update; pkg upgrade -y; pkg install git python python-pip -y
 ```bash
 git clone https://github.com/zainarain279/nodepay_v1.git
 ```
-- Make sure you are in this script directory: ``cd nodepay_v1``
-- Copy ``libcurl-impersonate-chrome.so.4`` to ``/data/data/com.termux/files/usr/lib``
+```bash
+cd Nodepay
+```
+
 ```bash
 cp libcurl-impersonate-chrome.so.4 /data/data/com.termux/files/usr/lib
 ```
