@@ -7,7 +7,7 @@ pkg update; pkg upgrade -y; pkg install git python python-pip -y
 ```
 - Download this script using Git:
 ```bash
-git clone https://github.com/zainarain279/nodepay_v1.git
+git clone https://github.com/zainarain279/Nodepay.git
 ```
 ```bash
 cd Nodepay
