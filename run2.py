@@ -35,8 +35,6 @@ def show_warning():
 ║  SCRIPTS EXPERT                  ║
 ║                                  ║
 ╚══════════════════════════════════╝
-                 Welcome to Nodepay Autofarmer Tool
-                        https://github.com/zainarain279
     """)
 
     try:
